@@ -1,0 +1,23 @@
+body{
+    background-color: black;
+ 
+}
+
+
+#text{
+    padding: 10px ;
+    width: 50%;
+    border: none;
+    text-align: center;
+    box-shadow: 1px 1px 3px 3px red ;
+    align-items: center;
+}
+
+button{
+    background-color: white;
+    padding: 10px;
+    color: black;
+    box-shadow: 1px 1px 3px 3px red ;
+ border: none;
+ margin: 10px;
+}
